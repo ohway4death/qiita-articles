@@ -1,0 +1,6 @@
+{
+  "markdown.copyFiles.destination": {
+    "**/*": "${documentDirName}/img/${documentBaseName}/${unixTime}.${fileExtName}"
+  },
+  "markdown.copyFiles.fileName": "${isoTime}.${fileExtName}"
+}
